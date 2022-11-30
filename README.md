@@ -1,3 +1,3 @@
 # Bubble sort 
 
-Example of __bubble sort__ using __PHP__   
+__Bubble sort__ using __PHP__   
